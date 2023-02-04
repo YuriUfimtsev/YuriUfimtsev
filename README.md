@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yuri <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Second-year student of the Programming Technologies at St Petersburg University.</h1>
+<h3 align="center">Second-year student of the Programming Technologies at St Petersburg University</h1>
 
  - Have studied C for one term, C# for two terms
  - Now learning F#
@@ -28,7 +28,7 @@
 <a href="https://github.com/YuriUfimtsev" target="_blank">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="ufimtsev3007@gmail.com" target="_blank">
+<a href="mailto:ufimtsev3007@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://t.me/yuri_ufimtsev" target="_blank">
