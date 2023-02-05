@@ -17,6 +17,9 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 </div>  
+<a href="https://learn.microsoft.com/ru-ru/aspnet/core/blazor/?view=aspnetcore-7.0" target="_blank">
+<img style="margin: 10px" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white">
+</a>
 
 <h3>GitHub Stats</h3>
 
