@@ -24,7 +24,7 @@
 <h3>GitHub Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=YuriUfimtsev&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriUfimtsev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Connect with me</h3>
 <div align="left">
