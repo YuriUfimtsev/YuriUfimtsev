@@ -22,9 +22,22 @@
 </a>
 
 <h3>GitHub Stats</h3>
+<table>
+<tr>
 
-![](https://github-readme-stats.vercel.app/api?username=YuriUfimtsev&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriUfimtsev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<th>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuriUfimtsev&show_icons=true&theme=default" width="400px"/>
+</a>
+</th>
+
+<th>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriUfimtsev&layout=compact"/>
+</a>
+</th>
+</tr>
+</table>
 
 <h3>Connect with me</h3>
 <div align="left">
