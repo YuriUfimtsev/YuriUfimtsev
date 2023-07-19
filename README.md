@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Yuri <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Second-year student of the Programming Technologies at St Petersburg University</h1>
+<h3 align="center">Third-year student of the Programming Technologies at St Petersburg University</h1>
 
- - Have studied C for one term, C# for two terms
- - Now learning F#
+ - Have studied C for one term, C# for two terms, F# for one term
 
 <h3>My Skill Set</h3>
 <div align="left">  
