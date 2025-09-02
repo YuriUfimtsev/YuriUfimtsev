@@ -23,7 +23,7 @@
 <h3>Connect with me</h3>
 <div align="left">
 <a href="mailto:YuriUfimtsev@yandex.ru" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://t.me/yuri_ufimtsev" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
