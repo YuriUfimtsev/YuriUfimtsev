@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Yuri <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Fourth-year student of the Programming Technologies at St Petersburg University</h1>
-
+<h3 align="center">Graduate of the Programming Technologies at St. Petersburg State University | First-year student of a master's program in ITMO (Distributed Web Services)</h1>
 
 <h3>GitHub Stats</h3>
 <table>
