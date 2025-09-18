@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yuri <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">:mortar_board: Graduate of the Software Engineering Chair at Saint Petersburg State University<br/>:zap: First-year student of a master's program at ITMO University (Distributed Web Services)</h1>
+<h3 align="center">:mortar_board: Graduate of the Software Engineering Chair at Saint Petersburg State University<br/>:zap: First-year student of a master's program at ITMO University (Web Scale Systems)</h1>
 
 <h3>GitHub Stats</h3>
 <table>
