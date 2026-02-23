@@ -8,13 +8,13 @@
 
 <th>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuriUfimtsev&show_icons=true&theme=default" width="400px"/>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=YuriUfimtsev&show_icons=true&theme=default" width="400px"/>
 </a>
 </th>
 
 <th>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriUfimtsev&layout=compact"/>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YuriUfimtsev&layout=compact"/>
 </a>
 </th>
 </tr>
